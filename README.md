@@ -8,7 +8,7 @@ npm install
 ```
 npm run serve
 ```
-
+```
 ├── public                     # 静态资源 (会被直接复制)
 │   │── favicon.ico            # favicon图标
 │   │── manifest.json          # PWA 配置文件
@@ -32,3 +32,4 @@ npm run serve
 ├── postcss.config.js          # postcss 配置
 ├── tsconfig.json              # typescript 配置
 └── vue.config.js              # vue-cli 配置
+```
